@@ -1,0 +1,8 @@
+[2018-07-30 20:50:48] [Error] System.UriFormatException: 无效的 URI: 未能分析主机名。
+   在 System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   在 Shadowsocks.Controller.UpdateFreeNode.CheckUpdate(Configuration config, String URL, Boolean use_proxy)
+[2018-07-30 20:50:48] ShadowsocksR started on port 1080
+[2018-07-30 20:50:58] [Info] Connect raw.githubusercontent.com:443
+[2018-07-30 20:50:58] [Info] Connect clients2.google.com:443
+[2018-07-30 20:50:59] [Error] connect to update server error
+[2018-07-30 20:51:11] [Info] Connect mtalk.google.com:443
