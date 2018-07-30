@@ -1095,6 +1095,8 @@ var rules = [
 	".github.io",
 	".simba.taobao.com",
 	".eleme.io",
+	".gitlab.com",
+	".tortoisegit.org",
 	".github.com",
 	".apache.org",
 	".google.com",
