@@ -1092,6 +1092,8 @@ var rules = [
 	".google.co.ma",
 	".google.co.uk",
 	".wallpaperswide.com",
+	".github.io",
+	".simba.taobao.com",
 	".github.com",
 	".google.com",
 	".google.de",

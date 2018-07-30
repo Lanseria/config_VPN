@@ -430,3 +430,7 @@
 [2018-07-08 01:23:06] [Info] Disconnect www.google.com:443
 [2018-07-08 01:23:06] [Info] Disconnect i.ytimg.com:443
 [2018-07-08 01:23:06] [Info] Disconnect clients4.google.com:443
+[2018-07-30 13:33:34] [Error] System.UriFormatException: 无效的 URI: 未能分析主机名。
+   在 System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   在 Shadowsocks.Controller.UpdateFreeNode.CheckUpdate(Configuration config, String URL, Boolean use_proxy)
+[2018-07-30 13:33:34] ShadowsocksR started on port 1080
