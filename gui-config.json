@@ -105,7 +105,7 @@
 	],
 	"index" : 2,
 	"random" : false,
-	"sysProxyMode" : 1,
+	"sysProxyMode" : 2,
 	"shareOverLan" : false,
 	"localPort" : 1080,
 	"localAuthPassword" : "g6F8h-UCezgiz6DqsbLV",
