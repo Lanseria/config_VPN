@@ -1,0 +1,26 @@
+{
+	"jp1.monocloud.space" : {
+		"totalUploadBytes" : 28665085,
+		"totalDownloadBytes" : 462399634
+	},
+	"hk1.monocloud.space" : {
+		"totalUploadBytes" : 22530948446,
+		"totalDownloadBytes" : 3290727459
+	},
+	"us1.monocloud.space" : {
+		"totalUploadBytes" : 153020749,
+		"totalDownloadBytes" : 9553980419
+	},
+	"jp2.monocloud.space" : {
+		"totalUploadBytes" : 19022075,
+		"totalDownloadBytes" : 31357012
+	},
+	"us2.monocloud.space" : {
+		"totalUploadBytes" : 41618616,
+		"totalDownloadBytes" : 9641039045
+	},
+	"eu1.monocloud.space" : {
+		"totalUploadBytes" : 4596846,
+		"totalDownloadBytes" : 1551252070
+	}
+}
