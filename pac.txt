@@ -1077,6 +1077,7 @@ var rules = [
 	"||goo.gl",
 	"||wallpaperswide.com",
 	"||github.io",
+	"||eleme.io",
 	"||simba.taobao.com",
 	"||envato.com",
 	"||gitlab.com",
